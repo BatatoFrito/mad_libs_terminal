@@ -1,0 +1,17 @@
+Instructions: To add a new story, write in a new paragraph:
+#[Title]Story text... (without the #)
+(Attention: A title needs to have more than 1 character and has to be unique)
+---------------------------------------------------------------------------------------------
+To add word spots in your story, simply add 4 underlines where you want it to be.
+#[Title]Story text ____... ____... (without the #)
+---------------------------------------------------------------------------------------------
+Word spots cannot be inside another word:
+#[Title]Story te____xt... (without the #) <- Not Allowed
+---------------------------------------------------------------------------------------------
+Also, you can make a story become a comment simply by inserting # right before the title
+---------------------------------------------------------------------------------------------
+
+[Example]Hey my ____ ____, this is a story example!
+Very ____, no? ____!
+
+[Claudio vai comer pão] Claudio ____ comer ____
